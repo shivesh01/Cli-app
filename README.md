@@ -6,6 +6,8 @@ This program contents
 
 Demo of program: https://youtu.be/CNCsFNLYb8Q
 
+This is a cli tool to manage your important tasks first by assigning higher value, so it can pop on the top of the list. 
+
 Usage 
 ./task 
 ./task help
